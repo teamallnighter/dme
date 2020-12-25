@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/teamallnighter/dme">
+    <img src="https://github.com/teamallnighter/dme/blob/main/img/logos/DME%20Logo/DME%20Drop/DME-Drop%20shadow@0.5x.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Daves Master Extracts</h3>
