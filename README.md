@@ -1,24 +1,40 @@
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# Daves Master Extracts
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/235c96ff-af8e-47d1-b51e-79e57ba7086c/deploy-status)](https://app.netlify.com/sites/dme-tester-2021/deploys)![Netlify](https://img.shields.io/netlify/235c96ff-af8e-47d1-b51e-79e57ba7086c)
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/teamallnighter/dme">
-    <img src="https://github.com/teamallnighter/dme/blob/main/img/logos/DME%20Logo/DME%20Drop/DME-Drop%20shadow@0.5x.png?raw=true" alt="Logo" width="80" height="80">
-  </a>
+## Set Up
 
-  <h3 align="center">Daves Master Extracts</h3>
+### Install
 
-  <p align="center">
-    An Ecommerce system for an online marijuana distributor 
-    <br />
-</p>
+Download the repo. 
 
-[Instagram](https://www.instagram.com/daves_master_extracts/?hl=en)
+```bash
+git clone https://github.com/teamallnighter/daves-master-extracts.git
+```
 
-[Awards](https://www.instagram.com/p/CFIcjDRBVfl/?utm_source=ig_web_copy_link)
+Make sure you have hugo set up 
 
-[Awards](https://www.instagram.com/p/CFIWoKiBe2K/?utm_source=ig_web_copy_link)
+#### Init Netlify
 
+```bash
+ntl init
+```
+
+#### Serve Locally
+
+```bash 
+hugo server
+```
+
+#### Deploy
+
+```bash
+hugo -D ntl deploy --prod
+```
+
+## Features
+
+* Awesome Design
+* Specials and discounts
+* Netlify ready
+* Snip Cart 

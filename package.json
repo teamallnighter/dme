@@ -1,0 +1,23 @@
+{
+  "name": "dme-site",
+  "version": "1.0.0",
+  "description": "A website for a marihuana distributor",
+  "main": "index.html",
+  "dependencies": {
+    "netlify-plugin-image-optim": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamallnighter/daves-master-extracts.git"
+  },
+  "author": "Chris Connelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamallnighter/daves-master-extracts/issues"
+  },
+  "homepage": "https://github.com/teamallnighter/daves-master-extracts#readme"
+}

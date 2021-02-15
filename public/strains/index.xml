@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strains on Daves Master Extracts | Karma Cup Champion 2020</title>
+    <link>https://dme-tester-2021.netlify.app/strains/</link>
+    <description>Recent content in Strains on Daves Master Extracts | Karma Cup Champion 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate>
+    
+	<atom:link href="https://dme-tester-2021.netlify.app/strains/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hybrid</title>
+      <link>https://dme-tester-2021.netlify.app/strains/hybrid/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>https://dme-tester-2021.netlify.app/strains/hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indica</title>
+      <link>https://dme-tester-2021.netlify.app/strains/indica/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>https://dme-tester-2021.netlify.app/strains/indica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sativa</title>
+      <link>https://dme-tester-2021.netlify.app/strains/sativa/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>https://dme-tester-2021.netlify.app/strains/sativa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

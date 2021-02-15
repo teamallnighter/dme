@@ -1,0 +1,107 @@
+######################### Hero Slider ##################################
+slider:
+  enable : true
+  sliderItem:
+    # slider item loop
+    - bgImage : "images/slider/slideshow2.jpg"
+      subtitle : "Shatter Sale"
+      title : " **30% off** All Shatter"
+      button:
+        enable : true
+        label : "Shop Now"
+        link : "shop"
+        
+    # slider item loop
+    - bgImage : "images/slider/slideshow1.jpg"
+      subtitle : "Winter Budder"
+      title : "stay **WARM** this winter"
+      button:
+        enable : true
+        label : "Shop Now"
+        link : "shop"
+        
+    # slider item loop
+    - bgImage : "images/slider/slideshow3.jpg"
+      subtitle : "Sign up for our newsletter"
+      title : "get exclusive **DISCOUNTS**"
+      button:
+        enable : true
+        label : "Sign Up"
+        link : "shop"
+
+
+################################### Categories #########################
+categories:
+  enable : true
+  category:
+    # category loop
+    - title : "Budder"
+      image : "images/products/bluebrybddr.png"
+      offer : "Order Now"
+      link : "budder"
+      
+    # category loop
+    - title : "Our Award Winning Indica Shatter"
+      image : "images/products/legendary-haze.png"
+      offer : "Now **10%** off"
+      link : "shatter"
+      
+    # category loop
+    - title : "DME Merch"
+      image : "images/products/merch.png"
+      offer : "**10%** off"
+      link : "shatter"
+
+
+#################################### New Arrival #########################
+newArrival:
+  enable : true
+  title : "New arrivals"
+  subtitle : "The best Online sales to shop this weekend"
+  # products comes from `content/products` folder
+
+
+
+############################## Deal ######################################
+deal:
+  enable : true
+  subtitle : "Deal of the week 10% Off"
+  title : "Merch"
+  content : "Hurry up! Limited time offer.Grab it now!"
+  
+  # set timer
+  year: "2021"
+  month: "02"
+  day: "15"
+  hour: "02"
+
+  # button
+  button:
+    label : "Shop Now"
+    link : "shop"
+
+
+
+############################## Service ###################################
+service:
+  enable : true
+  serviceItem:
+    # service item loop
+    - title : "Free Shipping"
+      icon : "ti-truck" # themify icon pack : https://themify.me/themify-icons
+      content : "On all order over $39.00"
+      
+    # service item loop
+    - title : "Satisfaction Garunteed"
+      icon : "ti-wallet" # themify icon pack : https://themify.me/themify-icons
+      content : "Money back Guarantee"
+      
+    # service item loop
+    - title : "Secure Checkout"
+      icon : "ti-shield" # themify icon pack : https://themify.me/themify-icons
+      content : "100% Protected by paypa"
+      
+    # service item loop
+    - title : "24 / 7 Support"
+      icon : "ti-alarm-clock" # themify icon pack : https://themify.me/themify-icons
+      content : "All time customer support"
